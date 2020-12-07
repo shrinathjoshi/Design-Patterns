@@ -12,3 +12,7 @@ These can be defined as general guideliness to follow while working on object or
 
 
 ###### [ SourceMaking ](https://sourcemaking.com/design_patterns)
+
+
+### Creational Design Pattern
+1. Singleton :- [Java](https://github.com/shrinathjoshi/Design-Patterns/blob/master/Singleton/Singleton.java)
